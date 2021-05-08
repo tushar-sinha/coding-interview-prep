@@ -1,4 +1,4 @@
-
+// https://leetcode.com/problems/sum-of-two-integers
 
 // Iterative
 public int getSum(int a, int b) {
@@ -13,7 +13,6 @@ public int getSum(int a, int b) {
 	
 	return a;
 }
-// https://leetcode.com/problems/sum-of-two-integers
 
 
 // Iterative
